@@ -21,7 +21,7 @@ Desenvolvedor de software em José Bonifácio, SP, e cofundador do **Finpi**, on
 | [resumo-chat-gemini](https://github.com/felipetagawa/resumo-chat-gemini) | AtendeAI Manager: extensão para Chrome que resume atendimentos e agiliza o registro no CRM com Gemini. Feita para um time de suporte real | JavaScript, Gemini API |
 | [resumo-chat-api](https://github.com/felipetagawa/resumo-chat-api) | Backend do AtendeAI: resumo e análise de atendimentos, sem banco de dados, deploy no Google Cloud | Java, Spring Boot, Gemini |
 | [PilatesFlow](https://github.com/felipetagawa/PilatesFlow) · [ao vivo](https://pilates-flow-one.vercel.app) | Feito para uma fisioterapeuta da família: agenda, cadastro de pacientes e acompanhamento da evolução de cada um | React, TypeScript, Vite |
-| [hop-street](https://github.com/felipetagawa/hop-street) | Jogo de navegador em que uma galinha atravessa a rua. Trabalho da faculdade feito em JavaScript com poucas bibliotecas, sem engine de jogos, enquanto quase todo mundo usou engine. Ficou em 3º lugar na competição | JavaScript, React |
+| [hop-street](https://github.com/felipetagawa/hop-street) | Jogo de navegador em que uma galinha atravessa a rua. Feito em JavaScript com poucas bibliotecas, sem engine de jogos, enquanto quase todo mundo usou engine. 3º lugar na feira de projetos da faculdade, entre dezenas de trabalhos de vários cursos | JavaScript, React |
 | [cardapio](https://github.com/felipetagawa/cardapio) · [ao vivo](https://cardapio-xi-sage.vercel.app) | Cardápio digital de um restaurante local | HTML, CSS, JavaScript |
 | [library-api](https://github.com/felipetagawa/library-api) | API REST de biblioteca (projeto de estudo) | Java, Spring Boot |
 
