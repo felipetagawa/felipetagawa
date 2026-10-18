@@ -37,4 +37,4 @@ Português (nativo) · Inglês (fluente) · 日本語 (JLPT N2, cinco anos moran
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/felipe-tagawa-okamoto-55b4b32b3/) · [X](https://x.com/felipetagawa)
+[LinkedIn](https://www.linkedin.com/in/felipetagawa/) · [X](https://x.com/felipetagawa)
