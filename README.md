@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe 👋
 
-Desenvolvedor de software em José Bonifácio, SP. Migrei para a área recentemente e aprendo construindo: hoje estou fazendo o **Finpi** de ponta a ponta, da API ao app mobile. Trabalho em português, inglês e japonês.
+Desenvolvedor de software em José Bonifácio, SP. Construo o **Finpi** de ponta a ponta, da API ao app mobile, e aprendo entregando. Trabalho em português, inglês e japonês.
 
 ## O que estou construindo
 
@@ -17,8 +17,8 @@ Desenvolvedor de software em José Bonifácio, SP. Migrei para a área recenteme
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [resumo-chat-gemini](https://github.com/felipetagawa/resumo-chat-gemini) | AtendeAI Manager: resume atendimentos do Sz.chat e sugere dicas com Gemini | JavaScript, Gemini API |
-| [resumo-chat-api](https://github.com/felipetagawa/resumo-chat-api) | Backend do AtendeAI: resumo e análise de atendimentos, sem banco, deploy no Google Cloud | Java, Spring Boot, Gemini |
+| [resumo-chat-gemini](https://github.com/felipetagawa/resumo-chat-gemini) | AtendeAI Manager: ferramenta para suporte técnico que resume atendimentos e sugere próximos passos com Gemini, para o time ganhar tempo | JavaScript, Gemini API |
+| [resumo-chat-api](https://github.com/felipetagawa/resumo-chat-api) | Backend do AtendeAI: resumo e análise de atendimentos de suporte, sem banco de dados, deploy no Google Cloud | Java, Spring Boot, Gemini |
 | [PilatesFlow](https://github.com/felipetagawa/PilatesFlow) · [ao vivo](https://pilates-flow-one.vercel.app) | Agenda e gestão de alunos para estúdio de pilates | React, TypeScript, Vite |
 | [penumbra](https://github.com/felipetagawa/penumbra) | Jogo stealth 3D no navegador: luz é letal, sombra é sobrevivência. Com GDD próprio | Three.js, JavaScript |
 | [cardapio](https://github.com/felipetagawa/cardapio) · [ao vivo](https://cardapio-xi-sage.vercel.app) | Cardápio digital de um restaurante local | HTML, CSS, JavaScript |
@@ -28,7 +28,6 @@ Desenvolvedor de software em José Bonifácio, SP. Migrei para a área recenteme
 
 - Avaliar funcionalidades com LLM do jeito certo (evals offline, portões de regressão)
 - Integrações Open Finance
-- Performance em React Native
 
 ## Idiomas
 
